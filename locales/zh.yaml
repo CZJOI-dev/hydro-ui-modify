@@ -1,0 +1,6 @@
+Legacy mode: 传统模式
+Standard mode: 标准模式
+'UID': '用户编号'
+'{0} is a superuser.': '{0}是一位超级管理员'
+'{0} is a moderator of this domain.': '{0}是这个域的管理员之一'
+'Solved {0} problems, RP: {1} (No. {2})': '解决了 {0} 道题目，PR: {1} (排名. {2})'
