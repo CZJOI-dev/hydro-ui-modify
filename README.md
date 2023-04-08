@@ -13,5 +13,7 @@
 `/locales/zh.yaml` 中文翻译补充文件
 
 
-
 `/templates` 前端修改
+
+`/download.zip` 整合包，用于下载
+
